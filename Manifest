@@ -1,0 +1,6 @@
+Manifest
+README.rdoc
+Rakefile
+init.rb
+lib/dollar.rb
+lib/dollarizeme.rb
